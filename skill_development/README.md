@@ -2,6 +2,7 @@
 
 **Author:** karthick
 **Skill Mode:** Development
+**Compatibility:** Cortex Code CLI, Claude Code CLI
 **Category:** Meta / Skill Authoring
 
 ---

@@ -2,6 +2,7 @@
 
 **Author:** karthick
 **Skill Mode:** Live
+**Compatibility:** Cortex Code CLI, Claude Code CLI, Codex CLI
 **Category:** Infrastructure as Code / Database Change Management
 
 ---

@@ -2,6 +2,7 @@
 
 **Author:** karthick
 **Skill Mode:** Live
+**Compatibility:** Cortex Code CLI, Cortex UI, Claude Code CLI, Codex CLI
 **Category:** Machine Learning / Data Science
 
 ---

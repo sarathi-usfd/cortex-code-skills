@@ -2,6 +2,7 @@
 
 **Author:** karthick
 **Skill Mode:** Live
+**Compatibility:** Cortex Code CLI, Claude Code CLI, Codex CLI
 **Category:** Migration / Spark to Snowpark
 
 ---

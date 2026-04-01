@@ -2,6 +2,7 @@
 
 **Author:** karthick
 **Skill Mode:** Live
+**Compatibility:** Cortex Code CLI, Cortex UI
 **Category:** Data Engineering / Iceberg / Open Table Format
 
 ---
