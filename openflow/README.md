@@ -1,3 +1,48 @@
+# openflow
+
+**Author:** karthick
+**Skill Mode:** Live
+**Category:** Data Integration / NiFi / Openflow
+
+---
+
+## When to Use
+
+- Deploying or managing Openflow connectors for data replication
+- Troubleshooting NiFi-based data pipeline failures or connectivity issues
+- Monitoring Openflow pipeline health and component status
+- Configuring parameters for Openflow data flows
+- Managing the connector lifecycle (deploy, suspend, resume, delete)
+- Diagnosing network access issues in Openflow environments
+
+## How to Use
+
+Invoke for any Openflow / NiFi data integration task:
+
+```
+/openflow
+```
+
+**Or describe your intent:**
+> "Deploy a new Openflow connector for replicating our Oracle tables"
+> "Why is my Openflow pipeline not moving data?"
+> "Check the health status of all Openflow connectors"
+
+## Testing
+
+- Validate connector connectivity before deploying to production pipelines
+- Test parameter configurations on a sample dataset
+- Use health check commands to verify component status after deployment
+- Check network access rules when diagnosing connectivity failures
+
+## Related Skills
+
+- `integrations` — Storage and external access integrations needed for Openflow
+- `dynamic-tables` — Alternative incremental processing for some use cases
+- `data-quality` — Monitor Openflow pipeline output quality
+
+---
+
 # Openflow Cortex Skill Architecture
 
 This document explains the structure and development patterns for the Openflow skill. Read this before contributing or modifying the skill.
